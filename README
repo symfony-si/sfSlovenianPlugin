@@ -1,7 +1,7 @@
 sfSlovenianPlugin
 =================
 
-Slovenian translations of core Symfony messages (required, yes or no, is empty, etc). 
+Slovenian translations of core Symfony messages (required, yes or no, is empty, etc).
 
 Symfony does not include message catalogues for its own messages.
 However Doctrine and Propel plugins include translations for their messages under the 'sf_admin' catalogues,
